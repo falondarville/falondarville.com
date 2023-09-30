@@ -10,4 +10,7 @@ plugins:
   - tags
 nav:
   - index.md
+plugins:
+  - blog:
+      post_url_format: "{slug}"
 

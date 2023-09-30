@@ -2,6 +2,7 @@
 date: 2023-09-20
 categories: 
     - reading
+slug: the-logistics-of-classics
 ---
 
 # The Logistics of Classics
