@@ -6,11 +6,9 @@ theme:
 plugins:
   - blog:
       blog_dir: .
+      post_url_format: "{slug}"
   - search
   - tags
+
 nav:
   - index.md
-plugins:
-  - blog:
-      post_url_format: "{slug}"
-
