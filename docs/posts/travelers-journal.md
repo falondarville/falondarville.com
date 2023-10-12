@@ -29,4 +29,6 @@ Some considerations for your own Traveler’s Notebook set up:
 * How often do you want to use your journal? If you want to use it daily, consider adding a planner insert. If the journal is meant to be a keepsake, you may opt for an insert that you’ll use for collages or travel memories.
 * How do you currently write? Think about the way you currently write and why you write. Maybe you’re a list keeper. Consider a lined insert and compile your lists in one place.
 
-The following images are of my Traveler’s Journal. The top left is the front page of my Commonplace Book. The top right is the front page of my travel journal. The bottom left photo contains my Traveler’s Journal, fountain pen, travel watercolor set, washi tape, stickers, and some paper cutouts. The bottom right is a sample entry in my travel journal of a list of bookshops in Edinburgh.
+The following images are of my Traveler’s Journal. 
+
+![Commonplace notebook cover](../assets/images/commonplace-journal.jpg) ![Travel Journal Front Page](../assets/images/travel-journal-front.jpg) ![Travelers' Journal and accessories](../assets/images/travelers-journal.jpg) ![Edinburgh Bookshops Journal Entry](../assets/images/edinburgh-bookshops.jpeg)
