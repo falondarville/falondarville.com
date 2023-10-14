@@ -1,8 +1,12 @@
-site_name: Falon Darville
+site_name: Falon Darville's Blog
 theme:
   name: material
   features:
     - navigation.sections
+  logo: assets/images/bug-3.png
+  favicon: assets/images/bug-3.png
+  font: 
+      text: Playfair Display
 plugins:
   - blog:
       blog_dir: .
@@ -12,3 +16,6 @@ plugins:
 
 nav:
   - index.md
+
+extra_css:
+  - stylesheets/extra.css
