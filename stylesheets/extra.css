@@ -1,0 +1,29 @@
+header.md-header {
+    background-color: #BAA898;
+}
+
+span.md-ellipsis {
+    color: #280003
+}
+
+main.md-main {
+    background-color: #F7F3F2;
+}
+
+.md-nav--primary .md-nav__title {
+    background: #F7F3F2;
+    box-shadow: none;
+}
+
+.md-nav--secondary .md-nav__title {
+    background: #F7F3F2;
+    box-shadow: none;
+}
+
+.md-typeset a {
+    color: #C4563F;
+}
+
+.md-meta__link {
+    color: #C4563F;
+}
