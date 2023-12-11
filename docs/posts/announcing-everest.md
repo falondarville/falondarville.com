@@ -10,6 +10,8 @@ For the past two years (2022 and 2023), my goal was to travel to three countries
 
 I'm going to climb to Mount Everest Base Camp in 2024. I won't share the trekking company or the date I'm going for my safety. However, know that I've done my due diligence to pick a highly safe group to go with. I'm happy to share privately once the excursion is over. 
 
+<!-- more -->
+
 So, why am I doing this? Well every so often, I get a satiable need to push myself to an extreme. In 2018, that was going to a coding bootcamp. Now, it's climbing a mountain. I need to test out my physical endurance, and more importantly, my mental endurance. I've practiced decided visualization and faith in achievement, so I know I can achieve this goal. 
 
 Note that when I say I'm climbing to Mount Everest Base Camp, that's not Summit. Base Camp is 12.5 miles away from Summit, since Summit is on the opposite end of the mountain. Trekking to Base Camp (with the group I've chosen) has a very high percentage of success rate. 
