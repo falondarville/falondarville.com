@@ -1,3 +1,9 @@
+---
+date: 2023-12-10
+categories: 
+    - travelling
+---
+
 # I'm Climbing to Mount Everest Base Camp
 
 For the past two years (2022 and 2023), my goal was to travel to three countries per year. In 2024, I've decided to primarily focus on one adventure in one country - Nepal's Mount Everest. The idea flighted into my mind last year when I was discussing the location of Mount Everest with an Engineer at Cisco. Then it came back to me this week with a sudden and definitive calling. 
