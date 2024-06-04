@@ -6,14 +6,14 @@ categories:
 
 # Survival Training: Day One, Fire and Shelter
 
-> [!NOTE] 
 > This blog post is part of a series on survival training, written about the [Thomas Coyne Survival Skills Certification](https://www.californiasurvivaltraining.com/basic-survival-skills-certification-course) course. 
 
-I just got back from a long and grueling three day survival training in Angelus Oaks, which is a less than two hour drive from Los Angeles. The city is nearby Big Bear, with an elevation of 5,800 feet (1,800 meters). I did this training through [Thomas Coyne Survival School](https://www.californiasurvivaltraining.com/), which works with the US Marin Corps, US Navy, US Department of Defense, and many more elite organizations. 
+I just got back from a long and grueling three day survival training in Angelus Oaks, which is a less than two hour drive from Los Angeles. The city is nearby Big Bear, with an elevation of 5,800 feet (1,800 meters). I did this training through [Thomas Coyne Survival School](https://www.californiasurvivaltraining.com/), which works with the US Marine Corps, US Navy, US Department of Defense, and many more elite organizations. 
 
 My fellow campers were not what I expected - most of the group was comprised of women around my age. It was incredible to be part of a group of like minded people who want to take responsibility into their own hands. And I loved being surrounded by people putting in the hard work to keep up and fully participate in every exercise. We had a great group. 
 
 ![Group of survival training participant with our instructor](../assets/images/survival-group.JPG)
+_Some of our group on the last day after we took our Red Cross certification test, including our instructor._
 
 On day one, we reported to camp at 9AM and met our instructors, including our leader, Adam Mayfield. Adam has 30 years of experience, and started out in bushcraft. He instructs many of the school's different courses.  
 
@@ -43,13 +43,17 @@ Use the four Ws to find a good shelter location.
 
 Building this shelter takes quite a bit of labor and can take hours, including the time it takes to source the right materials. That said, it's best to build one with other people. 
 
-First, we gathered a huge pile of leaves, enough to make a thick mattress that would fit the amount of people in our group (since shelters are best used with two or more people to increase warmth from body heat). The mattress has to be longer than you think, because you'll lose some room from the A frame tapered down design. The mattress is critical as it insulates the ground, and you can stay warmer that way. This is why, when camping, you can feel a significant warmth difference if you sleep in a sleeping bag versus a sleeping bag on top of a sleeping mat. 
+First, we gathered a huge pile of leaves, enough to make a thick mattress that would fit the amount of people in our group (since shelters are best used with two or more people to increase warmth from body heat). 
+
+The mattress has to be longer than you think, because you'll lose some room from the A frame tapered down design. The mattress is critical as it insulates the ground, and you can stay warmer that way. This is why, when camping, you can feel a significant warmth difference if you sleep in a sleeping bag versus a sleeping bag on top of a sleeping mat. The image below was taken in progress of building a one person shelter, so the leaf pile is smaller than the ones we built in our teams. 
 
 ![Gather leaves for a mattress](../assets/images/gather-leaves.jpeg)
 
-After we made our leaf mattress, we searched for a spine that was longer than the length of our mattress. Then we found two relatively equal length poles to make our A frame. We tied the two similar length poles to each other using paracord. Then we pulled the two tied poles into a large X shape, with a smaller triangle at the top to rest one side of our spine on. We secured the spine with weight and tested the strength of the gravity structure by pulling down on the front (note that the A frame should always be either sitting straight, or leaning toward the spine. If the A frame leans out, there's a higher chance of collapse). 
+After we made our leaf mattress, we searched for a spine that was longer than the length of our mattress. Then we found two relatively equal length poles to make our A frame. We tied the two similar length poles to each other using paracord. Then we pulled the two tied poles into a large X shape, with a smaller triangle at the top to rest one side of our spine on. 
 
-Once we completed our A frame structure, we found some straight sticks, and added ribs to each side of the spine by leaning them against the spine. This made up what I call the skeleton of the structure. 
+We secured the spine with weight and tested the strength of the gravity structure by pulling down on the front (note that the A frame should always be either sitting straight, or leaning toward the spine. If the A frame leans out, there's a higher chance of collapse). 
+
+Once we completed our A frame structure, we found some straight sticks, and added ribs to each side of the spine by leaning them against the spine. This made up what I call the skeleton of the structure. The image below shows how the shelter looks from the back, which is the opposite of the opening. 
 
 ![Built the skeleton structure](../assets/images/skeleton-structure.jpeg)
 
@@ -57,13 +61,13 @@ Once we built out the skeleton and knew that it could withstand some weight, we 
 
 ![Add webbing to hold the leaves](../assets/images/add-webbing.jpeg)
 
-The final step was gathering a huge amount of leaves using a tarp to make "bricks". To make the bricks, we would gather a big pile in our hands, pack it in with pressure, and set the brick down, building up row by row until we covered the whole structure. This part took the most amount of time just due to the sheer amount of material we had to source and bring back to our structure.  
+The final step was gathering a huge amount of leaves using a tarp to make "bricks". To make the bricks, we gathered a big pile in our hands, packed it in with pressure, and set the brick down, building up row by row until we covered the whole structure. This part took the most amount of time due to the sheer amount of material we had to source and bring back to our structure.  
 
 ![Pack on leaves in brick laying fashion](../assets/images/half-shelter.jpeg)
 
 ### Water treatment
 
-Our next lesson was on water treatment. We went down to the river, and learned how to use a Sawyer mini to filter non-urban water. We also learned about boiling as a method to treat water, and using iodine and other tablets. For now, I've opted to stock up on tablets for my [Everest Base Camp](../announcing-everest) trek coming up. I may choose to obtain a Sawyer mini as an alternative water treatment method.
+Our next lesson was on water treatment. We went down to the river, and learned how to use a Sawyer mini to filter non-urban water. We also learned about boiling as a method to treat water, and using iodine and other tablets. For now, I've opted to stock up on tablets for my [Everest Base Camp](/im-climbing-to-mount-everest-base-camp/) trek coming up. I may choose to obtain a Sawyer mini as an alternative water treatment method.
 
 ### End of day one
 
